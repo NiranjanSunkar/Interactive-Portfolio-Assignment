@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Secure File Sharing System",
+    "description": "Role-based secure file sharing with encrypted downloads.",
+    "tech": ["React", "Node.js", "Express", "MongoDB"],
+    "github": "https://github.com/yourname/secure-file-sharing",
+    "live": ""
+  },
+  {
+    "id": 2,
+    "title": "AI Portfolio Chatbot",
+    "description": "AI-powered chatbot that represents my developer persona.",
+    "tech": ["OpenAI API", "Express", "React"],
+    "github": "https://github.com/yourname/ai-portfolio",
+    "live": ""
+  },
+  {
+    "id": 3,
+    "title": "E-commerce Platform",
+    "description": "Full-featured e-commerce platform with payment integration.",
+    "tech": ["React", "Node.js", "Express", "MongoDB", "Stripe API"],
+    "github": "https://github.com/yourname/e-commerce-platform",
+    "live": ""
+  }
+]
