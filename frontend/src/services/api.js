@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://interactive-portfolio-assignment.onrender.com",
 });
 
 export const getProjects = () => API.get("/projects");
